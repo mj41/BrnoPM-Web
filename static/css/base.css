@@ -1,0 +1,29 @@
+html, body {
+  background-color: #f4f4ff;
+}
+body {
+  padding-top: 40px;
+}
+.container > footer p {
+  text-align: center;
+}
+.container {
+  width: 820px;
+}
+.container > .content {
+  background-color: #f4f4ff;
+  padding: 20px;
+  margin: 0 -20px;
+}
+.content .span10,
+.content .span4 {
+  min-height: 600px;
+}
+.content .span4 {
+  margin: 0;
+  padding-left: 19px;
+  border-left: 1px solid #aaa;
+}
+.topbar .btn {
+  border: 0;
+}
