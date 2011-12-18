@@ -1,0 +1,12 @@
+=head1 Prereq
+
+ mkdir ~/devel && cd ~/devel
+ mkdir brnopm && cd brnopm
+ git clone git://github.com/twitter/bootstrap.git
+ git clone git@github.com:mj41/BrnoPM-Web.git
+
+=head1 Devel
+
+ firefox static/index.html
+ 
+=cut
