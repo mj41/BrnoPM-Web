@@ -1,30 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-  <meta charset="utf-8">
-  <title>Brno Perl Mongers</title>
-  <link rel='canonical' href='http://brno.pm.org/' />
-  <meta name="description" content="Brno Perl Mongers - Brno.pm">
-  <link rel="stylesheet" href="css/bootstrap.min.css">
-  <link href="css/base.css" rel="stylesheet">
-  <script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
-  <script src="js/google.js" type="text/javascript"></script>
-</head>
-<body>
-  <div class="topbar">
-  <div class="fill">
-	<div class="container">
-	  <a class="brand" href="brno-pm">Brno Perl Mongers</a>
-	  <ul class="nav">
-	    <li class="active"><a href="./">Aktuálně</a></li><li><a href="brno-pm">Brno PM</a></li><li><a href="projekty">Projekty</a></li><li><a href="lide">Lidé</a></li><li><a href="kontakt">Kontakt</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-  <div class="container">
-    <div class="content">
-      <div class="row">
-                  <div class="span10">
+          <div class="span10">
             <h1>Posezení u piva</h1>
             <h2>Příští - 9. únor 2012 18:00</h2>
             <p>
@@ -92,8 +66,3 @@ new TWTR.Widget({
   </div>
             </div>
           </div>
-      </div>
-    </div>
-  </div>
-</body>
-</html>

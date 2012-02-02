@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <title>Projekty - Brno Perl Mongers</title>
+  <link rel='canonical' href='http://brno.pm.org/' />
+  <meta name="description" content="Brno Perl Mongers - Brno.pm">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link href="css/base.css" rel="stylesheet">
+  <script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+  <script src="js/google.js" type="text/javascript"></script>
+</head>
+<body>
+  <div class="topbar">
+  <div class="fill">
+	<div class="container">
+	  <a class="brand" href="brno-pm">Brno Perl Mongers</a>
+	  <ul class="nav">
+	    <li><a href="./">Aktuálně</a></li><li><a href="brno-pm">Brno PM</a></li><li class="active"><a href="projekty">Projekty</a></li><li><a href="lide">Lidé</a></li><li><a href="kontakt">Kontakt</a></li>
+	  </ul>
+	</div>
+  </div>
+</div>
+  <div class="container">
+    <div class="content">
+      <div class="row">
+        <div class="span14">
+
+<h1>Projekty</h1>
+<p>
+Projekty o kterých na našich setkáních býva často řeč:
+</p>
+
+<h2>Open source</h2>
+<ul>
+<li><a href="http://perl6.org">Perl 6</a></li>
+<li><a href="http://dev.taptinder.org/wiki/TapTinder">TapTinder</a></li>
+</ul>
+
+<h2>Uzavřené</h2>
+<ul>
+<li><a href="http://www.gooddata.com">GoodData</a></li>
+</ul>
+
+</div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

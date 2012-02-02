@@ -1,0 +1,4 @@
+Script to render static files with Text::Caml as template system
+
+[1] http://search.cpan.org/~vti/Text-Caml/
+[2] https://github.com/vti/text-caml

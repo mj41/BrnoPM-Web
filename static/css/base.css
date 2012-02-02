@@ -33,15 +33,21 @@ body {
   margin: 10px -20px;
   padding: 20px;
 }
-h2 {
+.content h2 {
   margin-top: 20px;
   line-height: 40px;
 }
-p {
+.content p {
   font-size: 18px;
   font-weight: normal;
   line-height: 24px;
   margin-bottom: 18px;
+}
+.content li {
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: normal;
+  color: #404040;
 }
 
 .topbar a {
