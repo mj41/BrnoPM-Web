@@ -10,7 +10,7 @@ převážně o programovacím jazyce Perl a o vývoji software.
 <p>
 Snažíme se nejpozdějí v pondělí v týdnu před našim čtvrtečním setkáním aktualizovat níže uvedený kalendář, 
 vypsat akci <a href="https://www.facebook.com/pages/Brno-Perl-Mongers/116293778460682">na naší Facebooku stránce</a> 
-a setkání oznámit na IRC kanálu a našich osobních Twitter účtech (#brno-pm hashtag).
+a setkání oznámit na IRC kanálu a našich osobních Twitter účtech (#brnopm hashtag).
 </p>
 <p>
 <object width="800" height="600" data="https://www.google.com/calendar/embed?src=gpgtr103ujcrmgq5stn6jcpfhc%40group.calendar.google.com&amp;ctz=Europe/Prague" type="application/xhtml+xml"></object>
