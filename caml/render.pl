@@ -13,7 +13,6 @@ my $pages_conf = {
 	'index' => {
 		title => $base_title,
 		main_page => 1,              # only base title
-		out_fname => 'index.html',   # base index name
 		menu_pos => 1,
 		menu_path => './',
 		menu_title => 'Aktuálně',
@@ -42,7 +41,7 @@ sub render_menu_html {
 	
 	my $html = '';
 	foreach my $mconf ( @$menu_conf ) {
-		my $active_html = ( $mconf->{base_name} eq $page_base_name )
+		my $active_html = ( $mconf->{base_name} eq $page_base_name.'.html' )
 			? ' class="active"'
 			: ''
 		;
@@ -66,7 +65,7 @@ sub prepare_menu_conf {
 		my $pconf = $pages_conf->{ $page_base_name };
 		push @$menu_conf, {
 			base_name => $page_base_name,
-			path => $pconf->{menu_path} || $page_base_name,
+			path => $pconf->{menu_path} || $page_base_name.'.html',
 			title => $pconf->{menu_title} || $pconf->{title},
 		}
 	}
@@ -99,7 +98,7 @@ foreach my $page_base_name ( keys %$pages_conf ) {
 	} );
 	#print " html: '$html'\n"; exit; # debug
 	
-	my $out_fpath = File::Spec->catfile( $out_dir, $pconf->{out_fname} || $page_base_name );
+	my $out_fpath = File::Spec->catfile( $out_dir, $page_base_name.'.html' );
 	print "  output file path: '$out_fpath'\n";
 	File::Slurp::write_file( $out_fpath, { binmode => ':utf8' }, $html );
 	print "  done\n";
