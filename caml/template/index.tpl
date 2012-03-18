@@ -1,6 +1,6 @@
           <div class="span10">
             <h1>Posezení u piva</h1>
-            <h2>Příští - 8. březen 2012 18:00</h2>
+            <h2>Příští - 22. březen 2012 18:00</h2>
             <p>
               Pravidelně každý druhý čtvrtek se kolem 18:00 hodin setkáváme v nekuřácké 
               restauraci <a href="http://www.mjuz.cz">[mju:z]</a> (Moravské náměstí 15, Brno).
@@ -19,9 +19,9 @@
 
           <div class="span4">
             <div class="leftbar">
-  <h2><a href="https://www.facebook.com/pages/Brno-Perl-Mongers/116293778460682">Brno PM na Facebooku</a></h2>
+  <h2><a href="https://www.facebook.com/brnopm">Brno PM na Facebooku</a></h2>
   <div class="part">
-    <a href="https://www.facebook.com/pages/Brno-Perl-Mongers/116293778460682">
+    <a href="https://www.facebook.com/brnopm">
       <img src="img/banner220.png" width=220 height=50>
     </a>
   </div>

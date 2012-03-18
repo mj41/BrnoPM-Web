@@ -15,7 +15,7 @@ Kanál <b>#czech.pm</b> (pro všechny české Perl Mongers skupiny) najdete na s
 
 <h2>Facebooku</h2>
 <p>
-<a href="https://www.facebook.com/pages/Brno-Perl-Mongers/116293778460682">Brno Perl Mongers na Facebook</a>
+<a href="https://www.facebook.com/brnopm">Brno Perl Mongers na Facebook</a>
 </p>
 
 <h2>V jiných městech</h2>
