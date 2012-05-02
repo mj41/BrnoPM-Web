@@ -1,6 +1,6 @@
           <div class="span10">
             <h1>Posezení u piva</h1>
-            <h2>Příští - 5. duben 2012 18:00</h2>
+            <h2>Příští - 3. květen 2012 18:00</h2>
             <p>
               Pravidelně každý druhý čtvrtek se kolem 18:00 hodin setkáváme v nekuřácké 
               restauraci <a href="http://www.mjuz.cz">[mju:z]</a> (Moravské náměstí 15, Brno).
@@ -9,7 +9,8 @@
             </p>
             <p>
               Na našem stole je většinou několik notebooků, takže jej snadno poznáte. Pokud ne,
-              tak tam bývá alespoň jeden s nálepkou GoodData.
+              tak tam bývá alespoň jeden s nálepkou GoodData. Budeme rádi, když se ukážete, ať
+              už jste perl guru nebo začátečník.
             </p>
 
             <h2>O čem a s kým?</h2>
