@@ -1,6 +1,6 @@
           <div class="span10">
             <h1>Posezení u piva</h1>
-            <h2>Příští - 3. květen 2012 18:00</h2>
+            <h2>Příští - 17. květen 2012 18:00</h2>
             <p>
               Pravidelně každý druhý čtvrtek se kolem 18:00 hodin setkáváme v nekuřácké 
               restauraci <a href="http://www.mjuz.cz">[mju:z]</a> (Moravské náměstí 15, Brno).
