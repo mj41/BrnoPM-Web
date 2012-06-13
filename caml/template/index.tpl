@@ -1,11 +1,11 @@
           <div class="span10">
             <h1>Posezení u piva</h1>
-            <h2>Příští - 31. květen 2012 18:00</h2>
+            <h2>Příští - 14. červen 2012 18:0ř</h2>
             <p>
               Pravidelně každý druhý čtvrtek se kolem 18:00 hodin setkáváme v nekuřácké 
               restauraci <a href="http://www.mjuz.cz">[mju:z]</a> (Moravské náměstí 15, Brno).
-              Pokud je volné místo, tak sedíme v horním patře (po průchodu šatnou 
-              doleva nahoru po schodech).
+              Tohle bude asi poslední setkání v Mjuz, který zavírají. Snad jej brzy opět otevřou
+              a zůstane stále nekuřácký.
             </p>
             <p>
               Na našem stole je většinou několik notebooků, takže jej snadno poznáte. Pokud ne,
@@ -15,7 +15,7 @@
 
             <h2>O čem a s kým?</h2>
             <p>
-              Nejvíce nás bývý kolem deseti, takže přátelská atmosféra. Zatím jsou většinou
+              Nejvíce nás bývá kolem deseti, takže přátelská atmosféra. Zatím jsou většinou
               v přesile <a href="lide">lidé</a> z <a href="http://www.gooddata.com">GoodData</a>. 
               Bavíme se především o Perlu, programování, Linuxu a počítačích. Témata zatím 
               nebylo nutné vybírat předem.
