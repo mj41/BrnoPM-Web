@@ -7,6 +7,8 @@
 
 =head1 Devel
 
+ vim caml/template/index.tpl
+ perl caml/render.pl
  firefox static/index.html
- 
+
 =cut
