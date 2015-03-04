@@ -5,16 +5,16 @@
 <h2>Michal Jurosz</h2>
 <p>
 Zajímá se o vývoj software, webové technologie a dění okolo free
-software. Již více než deset let nejraději programuje v Perlu 5. Sleduje
-vývoj jazyka Perl 6 a virtuálního stroje Parrot a nemůže se dočkat, až
-je bude moci používat naplno. Projektem TapTinder se proto snaží pomoci. Věří,
-že Perl má budoucnost a Perl 5 prožívá renesanci. Proto je jedním ze
-zakládajích členů Brno.pm.
+software. Již více než deset let nejraději programuje v Per 5.
+Sleduje vývoj jazyka Perl 6 a nemůže se dočkat, až je bude moci
+používat naplno. Projektem TapTinder se proto snaží pomoci. Věří,
+že Perl má budoucnost a Perl 5 prožívá renesanci. Proto je jedním
+ze zakládajích členů Brno.pm.
 </p>
 <p>
 Přezdívka: mj41<br>
 Homepage: <a href="http://mj41.cz">mj41.cz</a><br>
-Projekty: <a href="http://taptinder.org/">TapTinder</a>, <a href="">perl6.cz</a> a <a href="https://github.com/mj41">další</a>
+Projekty: <a href="http://taptinder.org/">TapTinder</a>, <a href="http://perl6.cz">perl6.cz</a> a <a href="https://github.com/mj41">další</a>
 </p>
 
 <h2>Michal Špaček</h2>
