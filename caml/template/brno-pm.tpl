@@ -13,7 +13,7 @@ vypsat akci <a href="https://www.facebook.com/brnopm">na naší Facebooku strán
 a setkání oznámit na IRC kanálu a našich osobních Twitter účtech (#brnopm hashtag).
 </p>
 <p>
-<object width="800" height="600" data="https://www.google.com/calendar/embed?src=gpgtr103ujcrmgq5stn6jcpfhc%40group.calendar.google.com&amp;ctz=Europe/Prague" type="application/xhtml+xml"></object>
+<iframe src="https://www.google.com/calendar/embed?title=Kalend%C3%A1%C5%99%20akc%C3%AD%20Brno%20Perl%20Mongers&amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=400&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23ccccff&amp;src=gpgtr103ujcrmgq5stn6jcpfhc%40group.calendar.google.com&amp;color=%23691426&amp;ctz=Europe%2FPrague" style=" border:solid 1px #777 " width="800" height="400" frameborder="0" scrolling="no"></iframe>
 </p>
 
 </div>
