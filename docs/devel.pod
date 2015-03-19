@@ -11,4 +11,10 @@
  perl caml/render.pl
  firefox static/index.html
 
+=head1 Devel with PSGI server (autorefresh, just change the caml templates)
+
+ cpanm --installdeps --with-develop .
+ twiggy -p 5000 index.psgi
+ firefox http://localhost:5000/index.html
+
 =cut
