@@ -39,4 +39,13 @@ Perl, PSGI, ZeroMQ, Plack, Git, Linux ...
 Projekty: <a href="https://github.com/vasekd/Plack-App-REST">Plack::App::REST</a>
 </p>
 
+<h2>Milan Šorm</h2>
+<p>
+Od roku 1997 se postupně věnuje využívání Perlu, osvětě okolo Perlu, univerzitní výuce tohoto jazyka, evangelismu Perlu mezi nevěřícími, opečovávání historických modulů pro provoz projektu Univerzitní informační systém a v posledních letech rozvoji frameworků postavených nad Perl 5 směrem, se kterým ostatní Perlisti nesouhlasí (striktní OO návrh, typovost, výjimky, zapouzdření, přetížení standardního chování apod.). Je autorem řady modulů a patchů pro moduly na CPANu a udržuje open source databázovou konzolu v Perlu dbMan.
+</p>
+<p>
+Projekty: <a href="http://www.uis-info.com">UIS</a>, <a href="https://github.com/milsorm/dbman">dbMan</a> a další věci na <a href="https://github.com/milsorm">githubu</a>, <a href="http://www.zavorky.cz">Závorky</a>
+Kontakty: <a href="https://www.linkedin.com/in/milansorm">LinkedIn</a>, <a href="http://www.milansorm.cz">webovky</a>, <a href="http://search.cpan.org/~milso/">CPAN</a>
+</p>
+
 </div>
