@@ -23,21 +23,17 @@ my $pages_conf = {
 		title => 'Brno PM',
 		menu_pos => 2,
 	},
-	'projekty' => {
-		title => 'Projekty',
-		menu_pos => 3,
-	},
 	'prednasky' => {
 		title => 'Přednášky',
-		menu_pos => 4,
+		menu_pos => 3,
 	},
 	'lide' => {
 		title => 'Lidé',
-		menu_pos => 5,
+		menu_pos => 4,
 	},
 	'kontakt' => {
 		title => 'Kontakt',
-		menu_pos => 6,
+		menu_pos => 5,
 	},
 };
 
